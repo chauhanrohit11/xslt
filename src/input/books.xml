@@ -1,0 +1,12 @@
+<library>
+  <book>
+    <title>Harry Potter</title>
+    <author>J.K. Rowling</author>
+    <isbn>123456789</isbn>
+  </book>
+  <book>
+    <title>Lord of the Rings</title>
+    <author>J.R.R. Tolkien</author>
+    <isbn>987654321</isbn>
+  </book>
+</library>
